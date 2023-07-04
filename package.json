@@ -1,0 +1,26 @@
+{
+  "name": "ecommerce-backend52250",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start:dev": "nodemon ./src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "multer": "^1.4.5-lts.1"
+  },
+  "nodemonConfig": {
+    "ignore": [
+      "src/files/*"
+    ]
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}

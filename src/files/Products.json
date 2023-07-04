@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Intel i5",
+    "description": "13th gen",
+    "price": 160196,
+    "status": true,
+    "thumbnail": "image1",
+    "code": "ABCD",
+    "stock": 10,
+    "category": "Processor",
+    "thumbnails": ["http://localhost:8080/images/i5.png"],
+    "id": 1
+  },
+  {
+    "title": "Intel i7",
+    "description": "13th gen",
+    "price": 288076,
+    "status": true,
+    "thumbnail": "image1",
+    "code": "EFGH",
+    "stock": 35,
+    "category": "Processor",
+    "thumbnails": ["http://localhost:8080/images/i7.png"],
+    "id": 2
+  },
+  {
+    "title": "Intel i9",
+    "description": "13th gen",
+    "price": 483499,
+    "status": true,
+    "thumbnail": "image1",
+    "code": "IJKL",
+    "stock": 10,
+    "category": "Processor",
+    "thumbnails": ["http://localhost:8080/images/i9.png"],
+    "id": 3
+  },
+  {
+    "title": "Ryzen 5",
+    "description": "7000 series",
+    "code": "MNOP",
+    "price": 165061,
+    "status": true,
+    "stock": 5,
+    "category": "Processor",
+    "thumbnails": ["http://localhost:8080/images/r5.jpeg"],
+    "id": 4
+  },
+  {
+    "title": "Ryzen 7",
+    "description": "7000 series",
+    "code": "QRST",
+    "price": 238624,
+    "status": true,
+    "stock": 5,
+    "category": "Processor",
+    "thumbnails": ["http://localhost:8080/images/r7.jpg"],
+    "id": 5
+  },
+  {
+    "title": "Ryzen 9",
+    "description": "7000 series",
+    "code": "UVWX",
+    "price": 384354,
+    "status": true,
+    "stock": 5,
+    "category": "Processor",
+    "thumbnails": ["http://localhost:8080/images/r9.jpg"],
+    "id": 6
+  }
+]
